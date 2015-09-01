@@ -1,0 +1,9 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.n9mtq4.notification.mac</groupId>
+  <artifactId>MacOSX-Notification-Library-Java</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <name>MacOSX-Notification-Library-Java</name>
+  <url>https://github.com/Team4761/MacOSX-Notification-Library-Java</url>
+  <description>A library to send notifications to the notification center in OSX. Forked from MacOSX-Notification-Library-Java by Will &quot;n9mtq4&quot; Bresnahan (https://github.com/n9Mtq4/MacOSX-Notification-Library-Java).</description>
+</project>

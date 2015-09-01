@@ -1,6 +1,5 @@
-.idea/
-out/
-.DS_Store
-.t.command
-notificationDemo.iml
-._*
+/bin/
+/target/
+.project
+.classpath
+.settings/
