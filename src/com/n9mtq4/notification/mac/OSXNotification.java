@@ -15,7 +15,12 @@
 
 package com.n9mtq4.notification.mac;
 
-import java.io.*;
+import java.io.BufferedReader;
+import java.io.File;
+import java.io.IOException;
+import java.io.InputStream;
+import java.io.InputStreamReader;
+import java.io.PrintStream;
 
 /**
  * Created by Will on 10/1/14.
